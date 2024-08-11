@@ -22,8 +22,10 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
    ```bash
    git clone https://github.com/raskal-dev/portefolio_laravel.git
-
+   ````
+   ````bash
    cd portefolio_laravel
+   ````
 2. **Executer le commande bash**
     ````bash
     docker-compose up --build
@@ -31,5 +33,5 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
 1. **Execute** \
     Executer sur navigateur
-    ````bash
+    ```bash
     localhost:8000
