@@ -21,12 +21,12 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 1. **Cloner le dépôt**
 
    ```bash
-   $ git clone https://github.com/raskal-dev/portefolio_laravel.git
+   git clone https://github.com/raskal-dev/portefolio_laravel.git
 
-   $ cd portefolio_laravel
+   cd portefolio_laravel
 2. **Executer le commande bash**
     ````bash
-    $ docker-compose up --build
+    docker-compose up --build
 ## Lancement
 
 1. **Execute** \
